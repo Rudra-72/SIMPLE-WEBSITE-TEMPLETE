@@ -33,7 +33,8 @@ How to Use
 
 Clone or download this repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Rudra-72/SIMPLE-WEBSITE-TEMPLETE.git
+
 Open the project folder
 Run the website:
 Simply open index.html in your browser
