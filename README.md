@@ -16,14 +16,15 @@ Responsive-ready structure (can be enhanced with CSS)
 
 Project Structure
 project-folder/
-│
-├── index.html        # Main HTML file
-├── styles.css        # Styling file
-├── scripts.js        # JavaScript file
-├── background-video.mp4
-└── README.md
 
-🛠️ Technologies Used
+index.html        # Main HTML file
+styles.css        # Styling file
+scripts.js        # JavaScript file
+background-video.mp4
+README.md
+
+
+Technologies Used
 HTML5
 CSS3
 JavaScript
